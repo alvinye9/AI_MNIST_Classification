@@ -1,7 +1,0 @@
-First 10 entries of female BMI: [2.82 2.22 2.71 2.81 2.55 2.3  3.56 3.11 2.46 4.3 ]
-First 10 entries of female stature: [1.563 1.716 1.484 1.651 1.548 1.665 1.564 1.676 1.69  1.704]
-First 10 entries of male BMI: [3.   2.56 2.42 2.74 2.59 2.53 2.27 2.54 3.41 3.34]
-First 10 entries of male stature: [1.679 1.586 1.773 1.816 1.809 1.662 1.829 1.686 1.761 1.797]
-Optimal Theta:  [-10.7017505   -0.12339677   6.67486843]
-Optimal Theta (CVXPY): [-10.70175028  -0.12339676   6.67486829]
-Optimal Theta (Exact Line Search) = [-10.7017505   -0.12339677   6.67486843]
